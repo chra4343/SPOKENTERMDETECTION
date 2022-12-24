@@ -34,12 +34,3 @@ Regarding the code for Fourth Evaluation - FOLDER NAME IS 'Code for fourth Eval'
 a. The code file name ins BTPFourthEval.ipnyb - This file should be run in either Google Colab or Jupyter Notebook.
 b. The datasets are in the folder and their path is already specified in the code, so no need to import additionally.
 c. If using Google Colab, please import the files to the runtime of Colab and run the cells.
-
-Regarding the Web Application for Third and Fourth Evaluation - FOLDER NAME IS 'Web App for 3,4 Eval'
-
-a. The code files are present in the folder BTPWebApp. The folder consists of HTML, CSS, JS files.
-b. The website can be seen directly by opening index.html or by opening this link - https://jnaneswar-ghub.github.io/finalEval-BTP/
-c. The website can be run on localhost using the command http-server on the terminal.
-d. Select the language and dialect from the dropdowns and click the microphone symbol and give access to the website.
-e. Then start speaking and the web application does real-time speech-to-text conversion.
-f. After stopping the recording all the text displayed will be selected to create a new dataset to train or predict the model.
